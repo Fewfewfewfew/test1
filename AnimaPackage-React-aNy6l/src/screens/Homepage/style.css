@@ -1,0 +1,3265 @@
+.homepage {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.homepage .div {
+  background-color: #ffffff;
+  height: 10668px;
+  position: relative;
+  width: 1920px;
+}
+
+.homepage .footer {
+  align-items: center;
+  background-color: #2e4049;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  left: 0;
+  padding: 20px 0px;
+  position: absolute;
+  top: 10044px;
+  width: 1919px;
+}
+
+.homepage .content {
+  height: 584px;
+  position: relative;
+  width: 1919px;
+}
+
+.homepage .content-2 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 88px;
+  position: relative;
+  top: 92px;
+  width: 1919px;
+}
+
+.homepage .content-3 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 34px;
+  position: relative;
+  width: 1199px;
+}
+
+.homepage .about {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  position: relative;
+  width: 363px;
+}
+
+.homepage .content-4 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 24px;
+  position: relative;
+  width: 363px;
+}
+
+.homepage .logo {
+  height: 51px;
+  position: relative;
+  width: 206px;
+}
+
+.homepage .text-wrapper {
+  color: #ffffff;
+  font-family: "Shippori Mincho", Helvetica;
+  font-size: 35px;
+  font-weight: 800;
+  left: 27px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.homepage .overlap-group {
+  background-image: url(../../../static/img/vector-1-1.svg);
+  background-size: 100% 100%;
+  height: 42px;
+  left: 2px;
+  position: absolute;
+  top: 5px;
+  width: 19px;
+}
+
+.homepage .ellipse {
+  background-color: #77d7d3;
+  border-radius: 4.5px;
+  height: 9px;
+  left: 3px;
+  position: relative;
+  top: 3px;
+  width: 9px;
+}
+
+.homepage .care-about-people-to {
+  color: #ffffff;
+  font-family: "Work Sans", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: relative;
+  width: 363px;
+}
+
+.homepage .follow {
+  align-items: center;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 15px;
+  position: relative;
+  width: 285px;
+}
+
+.homepage .element {
+  background-color: #384c56;
+  border-radius: 30px;
+  height: 60px;
+  position: relative;
+  width: 60px;
+}
+
+.homepage .insta {
+  height: 19px;
+  left: 20px;
+  position: absolute;
+  top: 21px;
+  width: 19px;
+}
+
+.homepage .fb {
+  height: 18px;
+  left: 20px;
+  position: absolute;
+  top: 21px;
+  width: 19px;
+}
+
+.homepage .twiter {
+  height: 17px;
+  left: 20px;
+  position: absolute;
+  top: 22px;
+  width: 21px;
+}
+
+.homepage .pintrest {
+  height: 20px;
+  left: 20px;
+  position: absolute;
+  top: 20px;
+  width: 20px;
+}
+
+.homepage .text {
+  align-items: flex-start;
+  background-color: #384c56;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  height: 358px;
+  justify-content: center;
+  padding: 56px 49px;
+  position: relative;
+}
+
+.homepage .content-5 {
+  align-items: center;
+  display: inline-flex;
+  gap: 70px;
+  height: 246px;
+  position: relative;
+}
+
+.homepage .div-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+  position: relative;
+  width: 157px;
+}
+
+.homepage .text-wrapper-2 {
+  color: #ffffff;
+  font-family: "Shippori Mincho", Helvetica;
+  font-size: 25px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}
+
+.homepage .about-us-volunteer {
+  color: transparent;
+  font-family: "Work Sans", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 37.2px;
+  position: relative;
+  width: 157px;
+}
+
+.homepage .span {
+  color: #ffffff;
+}
+
+.homepage .text-wrapper-3 {
+  color: #ff6d6d;
+}
+
+.homepage .style-guide-licences {
+  color: #ffffff;
+  font-family: "Work Sans", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 37.2px;
+  position: relative;
+  width: 157px;
+}
+
+.homepage .contact {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+  position: relative;
+  width: 250px;
+}
+
+.homepage .element-broklyn-street {
+  color: #ffffff;
+  font-family: "Work Sans", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 37.2px;
+  position: relative;
+  width: 250px;
+}
+
+.homepage .copyright {
+  align-items: center;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 20px;
+  position: relative;
+  width: 1919px;
+}
+
+.homepage .line {
+  height: 1px;
+  margin-top: -1px;
+  object-fit: cover;
+  position: relative;
+  width: 1919px;
+}
+
+.homepage .p {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.homepage .subscribe-blog {
+  align-items: flex-start;
+  display: flex;
+  justify-content: center;
+  left: 0;
+  position: absolute;
+  top: 9646px;
+  width: 1920px;
+}
+
+.homepage .newslatter {
+  align-items: center;
+  background-color: #ff6d6d;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 74px 112px;
+  position: relative;
+  width: 959px;
+}
+
+.homepage .content-6 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 30px;
+  position: relative;
+  width: 735px;
+}
+
+.homepage .content-7 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 15px;
+  position: relative;
+  width: 510px;
+}
+
+.homepage .title {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 2px;
+  position: relative;
+  width: 218px;
+}
+
+.homepage .text-wrapper-4 {
+  color: #ffffff;
+  font-family: "Sue Ellen Francisco", Helvetica;
+  font-size: 35px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 37.9px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.homepage .text-wrapper-5 {
+  color: #ffffff;
+  font-family: "Shippori Mincho", Helvetica;
+  font-size: 40px;
+  font-weight: 800;
+  letter-spacing: 0;
+  line-height: 48px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.homepage .text-wrapper-6 {
+  color: #ffffff;
+  font-family: "Work Sans", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: relative;
+  width: 510px;
+}
+
+.homepage .email-address {
+  align-items: center;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 20px;
+  position: relative;
+  width: 556px;
+}
+
+.homepage .addresss-bar {
+  height: 65px;
+  position: relative;
+  width: 416px;
+}
+
+.homepage .div-wrapper {
+  background-color: #ffffff;
+  border-radius: 34px;
+  height: 65px;
+  position: relative;
+  width: 414px;
+}
+
+.homepage .text-wrapper-7 {
+  color: #717171;
+  font-family: "Work Sans", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 26px;
+  letter-spacing: 0;
+  line-height: 23.4px;
+  position: absolute;
+  top: 21px;
+  white-space: nowrap;
+}
+
+.homepage .button {
+  all: unset;
+  align-items: center;
+  background-color: #2e4049;
+  border-radius: 34px;
+  box-sizing: border-box;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  padding: 22px 36px;
+  position: relative;
+}
+
+.homepage .text-wrapper-8 {
+  color: #ffffff;
+  font-family: "Work Sans", Helvetica;
+  font-size: 18px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.homepage .blog {
+  background-image: url(../../../static/img/background-image.png);
+  background-size: 100% 100%;
+  height: 398px;
+  position: relative;
+  width: 961px;
+}
+
+.homepage .content-8 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 35px;
+  left: 108px;
+  position: relative;
+  top: 81px;
+  width: 746px;
+}
+
+.homepage .display-text {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 2px;
+  position: relative;
+  width: 528px;
+}
+
+.homepage .text-wrapper-9 {
+  color: #2e4049;
+  font-family: "Sue Ellen Francisco", Helvetica;
+  font-size: 35px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 37.9px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.homepage .take-look-at-recent {
+  color: #2e4049;
+  font-family: "Shippori Mincho", Helvetica;
+  font-size: 40px;
+  font-weight: 800;
+  letter-spacing: 0;
+  line-height: 48px;
+  position: relative;
+  width: 528px;
+}
+
+.homepage .see-our-blogs-wrapper {
+  all: unset;
+  align-items: center;
+  background-color: #2e4049;
+  border-radius: 34px;
+  box-sizing: border-box;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  padding: 22px 28px;
+  position: relative;
+}
+
+.homepage .events {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+  left: 360px;
+  position: absolute;
+  top: 8720px;
+  width: 1200px;
+}
+
+.homepage .title-2 {
+  align-items: center;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 524px;
+  position: relative;
+  width: 1198px;
+}
+
+.homepage .title-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  position: relative;
+  width: 473px;
+}
+
+.homepage .text-wrapper-10 {
+  color: #ff6d6d;
+  font-family: "Sue Ellen Francisco", Helvetica;
+  font-size: 35px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 37.9px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.homepage .text-wrapper-11 {
+  color: #2e4049;
+  font-family: "Shippori Mincho", Helvetica;
+  font-size: 40px;
+  font-weight: 800;
+  letter-spacing: 0;
+  line-height: 48px;
+  position: relative;
+  width: fit-content;
+}
+
+.homepage .button-2 {
+  all: unset;
+  align-items: center;
+  background-color: #ff6d6d;
+  border-radius: 34px;
+  box-sizing: border-box;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  padding: 22px 36px;
+  position: relative;
+}
+
+.homepage .blog-2 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 30px;
+  position: relative;
+  width: 1200.04px;
+}
+
+.homepage .image-content {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  position: relative;
+  width: 600.04px;
+}
+
+.homepage .image {
+  background-image: url(../../../static/img/image.png);
+  background-size: 100% 100%;
+  height: 344px;
+  position: relative;
+  width: 600px;
+}
+
+.homepage .date {
+  align-items: center;
+  background-color: #ff6d6d;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 21px 19px;
+  position: relative;
+  width: 116px;
+}
+
+.homepage .div-3 {
+  color: #ffffff;
+  font-family: "Shippori Mincho", Helvetica;
+  font-size: 60px;
+  font-weight: 800;
+  letter-spacing: 0;
+  line-height: 72px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.homepage .text-wrapper-12 {
+  color: #ffffff;
+  font-family: "Shippori Mincho", Helvetica;
+  font-size: 60px;
+  font-weight: 800;
+  letter-spacing: 0;
+  line-height: 72px;
+}
+
+.homepage .text-wrapper-13 {
+  font-size: 25px;
+  line-height: 30px;
+}
+
+.homepage .content-9 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 28px;
+  position: relative;
+  width: 600.04px;
+}
+
+.homepage .date-2 {
+  align-items: center;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 42px;
+  position: relative;
+  width: 600.04px;
+}
+
+.homepage .div-4 {
+  color: transparent;
+  font-family: "Work Sans", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 26px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.homepage .text-wrapper-14 {
+  color: #717171;
+}
+
+.homepage .text-wrapper-15 {
+  color: #2e4049;
+  font-weight: 500;
+}
+
+.homepage .time {
+  height: 21px;
+  position: relative;
+  width: 324.04px;
+}
+
+.homepage .btn {
+  height: 21px;
+  left: 33px;
+  position: absolute;
+  top: 0;
+  width: 293px;
+}
+
+.homepage .element-AM-PM {
+  color: #2e4049;
+  font-family: "Work Sans", Helvetica;
+  font-size: 18px;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 291px;
+}
+
+.homepage .vector-wrapper {
+  background-image: url(../../../static/img/vector-1.svg);
+  background-size: 100% 100%;
+  height: 22px;
+  left: -1px;
+  position: absolute;
+  top: -1px;
+  width: 22px;
+}
+
+.homepage .vector {
+  height: 8px;
+  left: 10px;
+  position: absolute;
+  top: 5px;
+  width: 7px;
+}
+
+.homepage .content-10 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 16px;
+  position: relative;
+  width: 600px;
+}
+
+.homepage .img {
+  height: 1px;
+  margin-top: -1px;
+  object-fit: cover;
+  position: relative;
+  width: 600px;
+}
+
+.homepage .content-11 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 12px;
+  position: relative;
+  width: 600px;
+}
+
+.homepage .text-wrapper-16 {
+  color: #2e4049;
+  font-family: "Shippori Mincho", Helvetica;
+  font-size: 25px;
+  font-weight: 800;
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.homepage .text-wrapper-17 {
+  color: #717171;
+  font-family: "Work Sans", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: relative;
+  width: 600px;
+}
+
+.homepage .location {
+  align-items: flex-start;
+  background-color: #f0f0f0;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 59px;
+  justify-content: center;
+  padding: 16px 20px;
+  position: relative;
+}
+
+.homepage .location-2 {
+  align-items: center;
+  display: inline-flex;
+  gap: 14px;
+  height: 27px;
+  position: relative;
+}
+
+.homepage .icon {
+  height: 29px;
+  margin-bottom: -1px;
+  margin-left: -1px;
+  margin-top: -1px;
+  position: relative;
+  width: 20px;
+}
+
+.homepage .dark-spurt-san {
+  color: #2e4049;
+  font-family: "Work Sans", Helvetica;
+  font-size: 18px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.homepage .blog-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+  position: relative;
+  width: 570px;
+}
+
+.homepage .element-2 {
+  height: 169px;
+  position: relative;
+  width: 570px;
+}
+
+.homepage .line-2 {
+  height: 1px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 168px;
+  width: 569px;
+}
+
+.homepage .element-3 {
+  align-items: center;
+  display: flex;
+  gap: 20px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 570px;
+}
+
+.homepage .date-3 {
+  align-items: center;
+  background-color: #2e4049;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 21px 19px;
+  position: relative;
+  width: 116px;
+}
+
+.homepage .content-12 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  position: relative;
+  width: 434px;
+}
+
+.homepage .title-4 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 12px;
+  position: relative;
+  width: 328px;
+}
+
+.homepage .text-wrapper-18 {
+  color: #ff6d6d;
+  font-weight: 500;
+}
+
+.homepage .text-wrapper-19 {
+  color: #2e4049;
+  font-family: "Shippori Mincho", Helvetica;
+  font-size: 25px;
+  font-weight: 800;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.homepage .text-wrapper-20 {
+  color: #717171;
+  font-family: "Work Sans", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: relative;
+  width: 434px;
+}
+
+.homepage .element-august {
+  color: #ffffff;
+  font-family: "Shippori Mincho", Helvetica;
+  font-size: 60px;
+  font-weight: 800;
+  letter-spacing: 0;
+  line-height: 72px;
+  margin-left: -7px;
+  margin-right: -7px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.homepage .team {
+  background-image: url(../../../static/img/background.svg);
+  background-size: 100% 100%;
+  height: 871px;
+  left: 0;
+  position: absolute;
+  top: 7585px;
+  width: 1920px;
+}
+
+.homepage .content-13 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  left: 360px;
+  position: relative;
+  top: 141px;
+  width: 1200px;
+}
+
+.homepage .heading {
+  align-items: center;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 3px;
+  position: relative;
+  width: 418px;
+}
+
+.homepage .text-wrapper-21 {
+  color: #ff6d6d;
+  font-family: "Sue Ellen Francisco", Helvetica;
+  font-size: 35px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 37.9px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.homepage .text-wrapper-22 {
+  color: #2e4049;
+  font-family: "Shippori Mincho", Helvetica;
+  font-size: 40px;
+  font-weight: 800;
+  letter-spacing: 0;
+  line-height: 48px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.homepage .team-2 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 23px;
+  justify-content: center;
+  position: relative;
+  width: 1200px;
+}
+
+.homepage .element-4 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  position: relative;
+  width: 283px;
+}
+
+.homepage .image-2 {
+  height: 382px;
+  position: relative;
+  width: 283px;
+}
+
+.homepage .name {
+  align-items: center;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 20px;
+  position: relative;
+  width: 144px;
+}
+
+.homepage .text-wrapper-23 {
+  color: #2e4049;
+  font-family: "Shippori Mincho", Helvetica;
+  font-size: 20px;
+  font-weight: 800;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.homepage .follow-2 {
+  flex: 0 0 auto;
+  position: relative;
+  width: 123.86px;
+}
+
+.homepage .text-wrapper-24 {
+  color: #2e4049;
+  font-family: "Shippori Mincho", Helvetica;
+  font-size: 20px;
+  font-weight: 800;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-left: -9px;
+  margin-right: -9px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.homepage .content-wrapper {
+  align-items: flex-start;
+  background-color: #77d7d3;
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  padding: 64px 21px;
+  position: relative;
+  width: 282px;
+}
+
+.homepage .content-14 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  position: relative;
+  width: 240px;
+}
+
+.homepage .icon-wrapper {
+  background-color: #2e4049;
+  border-radius: 41px;
+  height: 82px;
+  position: relative;
+  width: 82px;
+}
+
+.homepage .icon-2 {
+  height: 46px;
+  left: 18px;
+  position: absolute;
+  top: 18px;
+  width: 46px;
+}
+
+.homepage .content-15 {
+  align-items: center;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 17px;
+  position: relative;
+  width: 240px;
+}
+
+.homepage .become-a-volunteer {
+  color: #2e4049;
+  font-family: "Shippori Mincho", Helvetica;
+  font-size: 25px;
+  font-weight: 800;
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.homepage .centuries-but-also {
+  color: #2e4049;
+  font-family: "Work Sans", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: relative;
+  text-align: center;
+  width: 240px;
+}
+
+.homepage .overlap-group-wrapper {
+  all: unset;
+  box-sizing: border-box;
+  height: 65px;
+  position: relative;
+  width: 203px;
+}
+
+.homepage .join-us-today-wrapper {
+  background-color: #2e4049;
+  border-radius: 34px;
+  height: 65px;
+  position: relative;
+  width: 201px;
+}
+
+.homepage .join-us-today {
+  color: #ffffff;
+  font-family: "Work Sans", Helvetica;
+  font-size: 18px;
+  font-weight: 500;
+  left: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 22px;
+  white-space: nowrap;
+}
+
+.homepage .clients {
+  height: 340px;
+  left: 360px;
+  position: absolute;
+  top: 7095px;
+  width: 1200px;
+}
+
+.homepage .client-logo {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+  position: relative;
+  width: 1200px;
+}
+
+.homepage .counter {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 80px;
+  justify-content: center;
+  position: relative;
+  width: 1169px;
+}
+
+.homepage .element-5 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+  width: 239px;
+}
+
+.homepage .text-wrapper-25 {
+  color: #2e4049;
+  font-family: "Shippori Mincho", Helvetica;
+  font-size: 60px;
+  font-weight: 800;
+  letter-spacing: 0;
+  line-height: 72px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.homepage .text-wrapper-26 {
+  color: #717171;
+  font-family: "Work Sans", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: relative;
+  text-align: center;
+  width: 239px;
+}
+
+.homepage .element-6 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+  width: 212px;
+}
+
+.homepage .projects-done-with {
+  color: #717171;
+  font-family: "Work Sans", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.homepage .element-7 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+  width: 178px;
+}
+
+.homepage .people-we-helped-on {
+  color: #717171;
+  font-family: "Work Sans", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  height: 52px;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: relative;
+  text-align: center;
+  width: 178px;
+}
+
+.homepage .element-8 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  position: relative;
+  width: 300px;
+}
+
+.homepage .text-wrapper-27 {
+  color: #717171;
+  font-family: "Work Sans", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: relative;
+  text-align: center;
+  width: 300px;
+}
+
+.homepage .line-3 {
+  height: 1px;
+  object-fit: cover;
+  position: relative;
+  width: 1200px;
+}
+
+.homepage .client-logo-2 {
+  align-items: center;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 120px;
+  justify-content: center;
+  position: relative;
+  width: 1166.88px;
+}
+
+.homepage .element-9 {
+  height: 43.76px;
+  position: relative;
+  width: 136.96px;
+}
+
+.homepage .element-10 {
+  height: 105.68px;
+  mix-blend-mode: multiply;
+  position: relative;
+  width: 106.75px;
+}
+
+.homepage .element-11 {
+  height: 44.18px;
+  position: relative;
+  width: 170.45px;
+}
+
+.homepage .element-12 {
+  height: 45.51px;
+  position: relative;
+  width: 150.96px;
+}
+
+.homepage .element-13 {
+  height: 48.71px;
+  position: relative;
+  width: 121.76px;
+}
+
+.homepage .testimonial {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 64px;
+  left: 360px;
+  position: absolute;
+  top: 6429px;
+  width: 1200px;
+}
+
+.homepage .title-5 {
+  align-items: center;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 3px;
+  position: relative;
+  width: 535px;
+}
+
+.homepage .text-wrapper-28 {
+  color: #ff6d6d;
+  font-family: "Sue Ellen Francisco", Helvetica;
+  font-size: 35px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 37.9px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  width: 105px;
+}
+
+.homepage .content-16 {
+  align-items: center;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 33px;
+  position: relative;
+  width: 1200.1px;
+}
+
+.homepage .testimonial-2 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 32px;
+  justify-content: center;
+  position: relative;
+  width: 1200.1px;
+}
+
+.homepage .element-14 {
+  align-items: flex-start;
+  background-color: #ecf1f0;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  height: 307px;
+  justify-content: center;
+  padding: 25px 26px;
+  position: relative;
+}
+
+.homepage .content-17 {
+  align-items: center;
+  display: inline-flex;
+  gap: 25px;
+  height: 257px;
+  position: relative;
+}
+
+.homepage .image-3 {
+  height: 257px;
+  position: relative;
+  width: 164px;
+}
+
+.homepage .content-18 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+  width: 343.05px;
+}
+
+.homepage .name-2 {
+  align-items: center;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 126px;
+  position: relative;
+  width: 343.05px;
+}
+
+.homepage .name-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: 140px;
+}
+
+.homepage .text-wrapper-29 {
+  color: #2e4049;
+  font-family: "Shippori Mincho", Helvetica;
+  font-size: 25px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}
+
+.homepage .text-wrapper-30 {
+  color: #717171;
+  font-family: "Work Sans", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.homepage .image-4 {
+  height: 57.04px;
+  position: relative;
+  width: 77.05px;
+}
+
+.homepage .text-wrapper-31 {
+  color: #717171;
+  font-family: "Work Sans", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: relative;
+  width: 343px;
+}
+
+.homepage .text-wrapper-32 {
+  color: #2e4049;
+  font-family: "Shippori Mincho", Helvetica;
+  font-size: 25px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: -7px;
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}
+
+.homepage .navigation {
+  align-items: center;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  position: relative;
+  width: 590px;
+}
+
+.homepage .overlap-group-wrapper-2 {
+  height: 73px;
+  position: relative;
+  width: 73px;
+}
+
+.homepage .overlap-group-2 {
+  border-radius: 36.5px;
+  height: 73px;
+  position: relative;
+  width: 73px;
+}
+
+.homepage .ellipse-2 {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #d0d0d0;
+  border-radius: 36.5px;
+  height: 73px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  transform: rotate(180deg);
+  width: 73px;
+}
+
+.homepage .vector-2 {
+  height: 22px;
+  left: 29px;
+  position: absolute;
+  top: 26px;
+  width: 12px;
+}
+
+.homepage .line-4 {
+  height: 1px;
+  object-fit: cover;
+  position: relative;
+  width: 444px;
+}
+
+.homepage .img-wrapper {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #d0d0d0;
+  border-radius: 36.5px;
+  height: 73px;
+  position: relative;
+  width: 73px;
+}
+
+.homepage .vector-3 {
+  height: 22px;
+  left: 30px;
+  position: absolute;
+  top: 25px;
+  width: 12px;
+}
+
+.homepage .project {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  position: absolute;
+  top: 5393px;
+  width: 1920px;
+}
+
+.homepage .element-15 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  margin-left: -0.5px;
+  margin-right: -0.5px;
+  position: relative;
+  width: 1921px;
+}
+
+.homepage .heading-2 {
+  align-items: flex-start;
+  background-color: #1f2c33;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 83px 103px 83px 102px;
+  position: relative;
+  width: 961px;
+}
+
+.homepage .content-19 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 32px;
+  position: relative;
+  width: 756px;
+}
+
+.homepage .content-20 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 15px;
+  position: relative;
+  width: 756px;
+}
+
+.homepage .title-6 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 1px;
+  position: relative;
+  width: 357px;
+}
+
+.homepage .lorem-ipsum-is {
+  color: #ffffff;
+  font-family: "Work Sans", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: relative;
+  width: 756px;
+}
+
+.homepage .more-project-wrapper {
+  all: unset;
+  align-items: center;
+  background-color: #ff6d6d;
+  border-radius: 34px;
+  box-sizing: border-box;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  padding: 22px 30px;
+  position: relative;
+}
+
+.homepage .element-16 {
+  align-items: center;
+  display: flex;
+  position: relative;
+  width: 960px;
+}
+
+.homepage .element-17 {
+  background-image: url(../../../static/img/image-6.png);
+  background-size: 100% 100%;
+  height: 443px;
+  position: relative;
+  width: 480px;
+}
+
+.homepage .element-18 {
+  height: 443px;
+  position: relative;
+  width: 479.5px;
+}
+
+.homepage .element-19 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  position: relative;
+  width: 1920px;
+}
+
+.homepage .element-20 {
+  background-image: url(../../../static/img/image-7.png);
+  background-size: 100% 100%;
+  height: 443px;
+  position: relative;
+  width: 480px;
+}
+
+.homepage .element-21 {
+  background-color: #77d7d3;
+  background-image: url(../../../static/img/image-8.png);
+  background-size: 100% 100%;
+  height: 443px;
+  position: relative;
+  width: 480px;
+}
+
+.homepage .element-22 {
+  background-image: url(../../../static/img/image-9.png);
+  background-size: 100% 100%;
+  height: 443px;
+  position: relative;
+  width: 480px;
+}
+
+.homepage .tags-wrapper {
+  height: 123px;
+  left: 39px;
+  position: relative;
+  top: 273px;
+  width: 348px;
+}
+
+.homepage .tags {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  position: relative;
+  width: 348px;
+}
+
+.homepage .tags-2 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  position: relative;
+  width: 246px;
+}
+
+.homepage .education {
+  height: 37.08px;
+  position: relative;
+  width: 139px;
+}
+
+.homepage .overlap-group-3 {
+  background-color: #e75252;
+  border-radius: 50px;
+  height: 37px;
+  position: relative;
+  width: 137px;
+}
+
+.homepage .text-wrapper-33 {
+  color: #ffffff;
+  font-family: "Work Sans", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 19px;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+  width: 98px;
+}
+
+.homepage .tag {
+  height: 37.08px;
+  margin-right: -2px;
+  position: relative;
+  width: 103px;
+}
+
+.homepage .overlap {
+  background-color: #e75252;
+  border-radius: 50px;
+  height: 37px;
+  position: relative;
+  width: 101px;
+}
+
+.homepage .text-wrapper-34 {
+  color: #ffffff;
+  font-family: "Work Sans", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 19px;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+  width: 64px;
+}
+
+.homepage .more-than-one-life {
+  color: #ffffff;
+  font-family: "Shippori Mincho", Helvetica;
+  font-size: 30px;
+  font-weight: 800;
+  letter-spacing: 0;
+  line-height: 36px;
+  position: relative;
+  width: 348px;
+}
+
+.homepage .element-23 {
+  background-image: url(../../../static/img/image-10.png);
+  background-size: 100% 100%;
+  height: 443px;
+  position: relative;
+  width: 480px;
+}
+
+.homepage .what-we-do {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 60px;
+  left: 386px;
+  position: absolute;
+  top: 4581px;
+  width: 1148px;
+}
+
+.homepage .title-7 {
+  align-items: center;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 543px;
+}
+
+.homepage .text-wrapper-35 {
+  color: #ff6d6d;
+  font-family: "Sue Ellen Francisco", Helvetica;
+  font-size: 35px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 37.9px;
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}
+
+.homepage .text-wrapper-36 {
+  color: #2e4049;
+  font-family: "Shippori Mincho", Helvetica;
+  font-size: 40px;
+  font-weight: 800;
+  letter-spacing: 0;
+  line-height: 48px;
+  margin-top: -30px;
+  position: relative;
+  width: 543px;
+}
+
+.homepage .content-21 {
+  align-items: center;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 80px;
+  position: relative;
+  width: 1148px;
+}
+
+.homepage .element-24 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 52px;
+  justify-content: center;
+  position: relative;
+  width: 1148px;
+}
+
+.homepage .element-25 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  position: relative;
+  width: 348px;
+}
+
+.homepage .title-8 {
+  align-items: center;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 15px;
+  position: relative;
+  width: 183px;
+}
+
+.homepage .img-2 {
+  height: 70px;
+  position: relative;
+  width: 70px;
+}
+
+.homepage .text-wrapper-37 {
+  color: #2e4049;
+  font-family: "Shippori Mincho", Helvetica;
+  font-size: 25px;
+  font-weight: 800;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: relative;
+  width: 183px;
+}
+
+.homepage .text-wrapper-38 {
+  color: #717171;
+  font-family: "Work Sans", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  height: 83px;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: relative;
+  text-align: center;
+  width: 348px;
+}
+
+.homepage .text-wrapper-39 {
+  color: #2e4049;
+  font-family: "Shippori Mincho", Helvetica;
+  font-size: 25px;
+  font-weight: 800;
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-left: -3.5px;
+  margin-right: -3.5px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.homepage .text-wrapper-40 {
+  color: #2e4049;
+  font-family: "Shippori Mincho", Helvetica;
+  font-size: 25px;
+  font-weight: 800;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: relative;
+  text-align: center;
+  width: 183px;
+}
+
+.homepage .text-wrapper-41 {
+  color: #2e4049;
+  font-family: "Shippori Mincho", Helvetica;
+  font-size: 25px;
+  font-weight: 800;
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-left: -24px;
+  margin-right: -24px;
+  position: relative;
+  text-align: center;
+  width: 231px;
+}
+
+.homepage .text-wrapper-42 {
+  color: #2e4049;
+  font-family: "Shippori Mincho", Helvetica;
+  font-size: 25px;
+  font-weight: 800;
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-left: -14px;
+  margin-right: -14px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.homepage .how-we-help {
+  background-image: url(../../../static/img/background-1.svg);
+  background-size: 100% 100%;
+  height: 988px;
+  left: 0;
+  position: absolute;
+  top: 3493px;
+  width: 1920px;
+}
+
+.homepage .overlap-2 {
+  background-image: url(../../../static/img/background-2.png);
+  background-size: 100% 100%;
+  height: 988px;
+}
+
+.homepage .content-22 {
+  align-items: flex-start;
+  display: flex;
+  gap: 56px;
+  left: 360px;
+  position: relative;
+  top: 142px;
+  width: 1198px;
+}
+
+.homepage .content-23 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  position: relative;
+  width: 575px;
+}
+
+.homepage .content-24 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 16px;
+  position: relative;
+  width: 575px;
+}
+
+.homepage .content-25 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 14px;
+  position: relative;
+  width: 575px;
+}
+
+.homepage .title-9 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 11px;
+  position: relative;
+  width: 531px;
+}
+
+.homepage .text-wrapper-43 {
+  color: #ffffff;
+  font-family: "Shippori Mincho", Helvetica;
+  font-size: 40px;
+  font-weight: 800;
+  letter-spacing: 0;
+  line-height: 48px;
+  position: relative;
+  width: 531px;
+}
+
+.homepage .lorem-ipsum-is-2 {
+  color: #ffffff;
+  font-family: "Work Sans", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  height: 121px;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: relative;
+  width: 575px;
+}
+
+.homepage .image-5 {
+  background-image: url(../../../static/img/image-11.png);
+  background-size: 100% 100%;
+  height: 192px;
+  position: relative;
+  width: 570px;
+}
+
+.homepage .donate-now-wrapper {
+  all: unset;
+  align-items: center;
+  background-color: #ff6d6d;
+  border-radius: 34px;
+  box-sizing: border-box;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  padding: 22px 39px;
+  position: relative;
+}
+
+.homepage .volunteer {
+  align-items: flex-start;
+  border: 1px solid;
+  border-color: #ffffff;
+  display: flex;
+  gap: 10px;
+  margin-right: -1.87px;
+  padding: 48px 63px;
+  position: relative;
+  width: 569px;
+}
+
+.homepage .content-26 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  position: relative;
+  width: 443px;
+}
+
+.homepage .text-wrapper-44 {
+  color: #ffffff;
+  font-family: "Shippori Mincho", Helvetica;
+  font-size: 35px;
+  font-weight: 800;
+  letter-spacing: 0;
+  line-height: 42px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.homepage .form-content {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 30px;
+  position: relative;
+  width: 443px;
+}
+
+.homepage .overlap-group-wrapper-3 {
+  height: 65px;
+  margin-right: -2px;
+  position: relative;
+  width: 445px;
+}
+
+.homepage .overlap-group-4 {
+  border: 1px solid;
+  border-color: #ffffff;
+  height: 65px;
+  position: relative;
+  width: 443px;
+}
+
+.homepage .text-wrapper-45 {
+  color: #ffffff;
+  font-family: "Work Sans", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 21px;
+  letter-spacing: 0;
+  line-height: 23.4px;
+  position: absolute;
+  top: 19px;
+  white-space: nowrap;
+}
+
+.homepage .message {
+  height: 156px;
+  margin-right: -2px;
+  position: relative;
+  width: 445px;
+}
+
+.homepage .overlap-3 {
+  border: 1px solid;
+  border-color: #ffffff;
+  height: 156px;
+  position: relative;
+  width: 443px;
+}
+
+.homepage .submit-now-wrapper {
+  all: unset;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 34px;
+  box-sizing: border-box;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  padding: 22px 41px;
+  position: relative;
+}
+
+.homepage .text-wrapper-46 {
+  color: #2e4049;
+  font-family: "Work Sans", Helvetica;
+  font-size: 18px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.homepage .causes {
+  background-image: url(../../../static/img/rectangle-10.svg);
+  background-size: 100% 100%;
+  height: 1331px;
+  left: 0;
+  position: absolute;
+  top: 2162px;
+  width: 1920px;
+}
+
+.homepage .content-27 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+  position: relative;
+  top: 164px;
+  width: 1920px;
+}
+
+.homepage .display-text-2 {
+  align-items: center;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 381px;
+  position: relative;
+  width: 1200px;
+}
+
+.homepage .title-10 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  position: relative;
+  width: 619px;
+}
+
+.homepage .more-causes-wrapper {
+  all: unset;
+  align-items: center;
+  background-color: #ff6d6d;
+  border-radius: 34px;
+  box-sizing: border-box;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  padding: 22px 35px;
+  position: relative;
+}
+
+.homepage .causes-2 {
+  height: 695px;
+  position: relative;
+  width: 1920px;
+}
+
+.homepage .overlap-wrapper {
+  height: 695px;
+  left: 1776px;
+  position: absolute;
+  top: 0;
+  width: 437px;
+}
+
+.homepage .overlap-4 {
+  height: 695px;
+  position: relative;
+}
+
+.homepage .content-28 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 437px;
+}
+
+.homepage .image-6 {
+  height: 387px;
+  position: relative;
+  width: 144px;
+}
+
+.homepage .content-29 {
+  align-items: flex-start;
+  background-color: #ffffff;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  padding: 34px 30px;
+  position: relative;
+  width: 437px;
+}
+
+.homepage .content-30 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 36px;
+  position: relative;
+  width: 377px;
+}
+
+.homepage .big-charity-build {
+  color: #2e4049;
+  font-family: "Shippori Mincho", Helvetica;
+  font-size: 25px;
+  font-weight: 800;
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}
+
+.homepage .rise {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 19px;
+  position: relative;
+  width: 377px;
+}
+
+.homepage .chart {
+  height: 1px;
+  position: relative;
+  width: 376px;
+}
+
+.homepage .line-wrapper {
+  background-image: url(../../../static/img/line-9.svg);
+  background-size: 100% 100%;
+  height: 6px;
+  position: relative;
+  top: -6px;
+  width: 114px;
+}
+
+.homepage .line-5 {
+  height: 6px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 114px;
+}
+
+.homepage .display-text-3 {
+  align-items: center;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 138px;
+  position: relative;
+  width: 377px;
+}
+
+.homepage .text-wrapper-47 {
+  color: #ff6d6d;
+  font-family: "Shippori Mincho", Helvetica;
+  font-size: 20px;
+  font-weight: 800;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.homepage .element-26 {
+  align-items: center;
+  background-color: #ffffff;
+  display: inline-flex;
+  gap: 10px;
+  justify-content: center;
+  left: 25px;
+  padding: 8px 13px;
+  position: absolute;
+  top: 25px;
+}
+
+.homepage .text-wrapper-48 {
+  color: #ff6d6d;
+  font-family: "Shippori Mincho", Helvetica;
+  font-size: 25px;
+  font-weight: 800;
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.homepage .element-27 {
+  height: 695px;
+  left: 1304px;
+  position: absolute;
+  top: 0;
+  width: 437px;
+}
+
+.homepage .image-7 {
+  height: 387px;
+  position: relative;
+  width: 437px;
+}
+
+.homepage .overlap-group-5 {
+  background-image: url(../../../static/img/line-9-3.svg);
+  background-size: 100% 100%;
+  height: 6px;
+  position: relative;
+  top: -6px;
+}
+
+.homepage .line-6 {
+  height: 6px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 316px;
+}
+
+.homepage .element-28 {
+  height: 695px;
+  left: 832px;
+  position: absolute;
+  top: 0;
+  width: 437px;
+}
+
+.homepage .line-7 {
+  height: 6px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 203px;
+}
+
+.homepage .element-29 {
+  height: 695px;
+  left: 360px;
+  position: absolute;
+  top: 0;
+  width: 437px;
+}
+
+.homepage .button-3 {
+  height: 73px;
+  position: relative;
+  width: 446px;
+}
+
+.homepage .button-4 {
+  height: 73px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 73px;
+}
+
+.homepage .overlap-group-6 {
+  border-radius: 36.5px;
+  height: 73px;
+  position: relative;
+}
+
+.homepage .ellipse-3 {
+  background-color: #ffffff;
+  border-radius: 36.5px;
+  height: 73px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  transform: rotate(180deg);
+  width: 73px;
+}
+
+.homepage .button-5 {
+  height: 73px;
+  left: 373px;
+  position: absolute;
+  top: 0;
+  width: 73px;
+}
+
+.homepage .ellipse-4 {
+  background-color: #ffffff;
+  border-radius: 36.5px;
+  height: 73px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 73px;
+}
+
+.homepage .vector-4 {
+  height: 22px;
+  left: 32px;
+  position: absolute;
+  top: 25px;
+  width: 12px;
+}
+
+.homepage .about-us {
+  align-items: center;
+  display: flex;
+  gap: 47px;
+  left: 360px;
+  position: absolute;
+  top: 1516px;
+  width: 1199px;
+}
+
+.homepage .text-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 13px;
+  position: relative;
+  width: 603px;
+}
+
+.homepage .title-11 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 4px;
+  position: relative;
+  width: 312px;
+}
+
+.homepage .content-31 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 32px;
+  position: relative;
+  width: 603px;
+}
+
+.homepage .lorem-ipsum-is-3 {
+  color: #717171;
+  font-family: "Work Sans", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 26px;
+  margin-top: -1px;
+  position: relative;
+  width: 603px;
+}
+
+.homepage .more-about-wrapper {
+  all: unset;
+  align-items: center;
+  background-color: #ff6d6d;
+  border-radius: 34px;
+  box-sizing: border-box;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  padding: 22px 40px;
+  position: relative;
+}
+
+.homepage .donation-goal {
+  align-items: flex-start;
+  background-color: #ecf1ef;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 51px 40px;
+  position: relative;
+  width: 549px;
+}
+
+.homepage .content-32 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 40px;
+  position: relative;
+  width: 469px;
+}
+
+.homepage .donation {
+  align-items: center;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 22px;
+  position: relative;
+  width: 469px;
+}
+
+.homepage .element-30 {
+  height: 129px;
+  position: relative;
+  width: 208px;
+}
+
+.homepage .food-donation-money {
+  color: #717171;
+  font-family: "Work Sans", Helvetica;
+  font-size: 20px;
+  font-weight: 500;
+  left: 41px;
+  letter-spacing: 0;
+  line-height: 43px;
+  position: absolute;
+  top: 0;
+  width: 165px;
+}
+
+.homepage .icon-3 {
+  background-color: #77d7d3;
+  border-radius: 13.5px;
+  height: 27px;
+  left: 0;
+  position: absolute;
+  top: 6px;
+  width: 27px;
+}
+
+.homepage .vector-5 {
+  height: 11px;
+  left: 7px;
+  position: absolute;
+  top: 8px;
+  width: 13px;
+}
+
+.homepage .icon-4 {
+  background-color: #77d7d3;
+  border-radius: 13.5px;
+  height: 27px;
+  left: 0;
+  position: absolute;
+  top: 51px;
+  width: 27px;
+}
+
+.homepage .icon-5 {
+  background-color: #77d7d3;
+  border-radius: 13.5px;
+  height: 27px;
+  left: 0;
+  position: absolute;
+  top: 96px;
+  width: 27px;
+}
+
+.homepage .element-31 {
+  height: 129px;
+  margin-right: -2px;
+  position: relative;
+  width: 243px;
+}
+
+.homepage .water-supplay {
+  color: #717171;
+  font-family: "Work Sans", Helvetica;
+  font-size: 20px;
+  font-weight: 500;
+  left: 41px;
+  letter-spacing: 0;
+  line-height: 43px;
+  position: absolute;
+  top: 0;
+}
+
+.homepage .chart-2 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 28px;
+  position: relative;
+  width: 443px;
+}
+
+.homepage .display-text-4 {
+  height: 30px;
+  position: relative;
+  width: 192px;
+}
+
+.homepage .text-wrapper-49 {
+  color: #2e4049;
+  font-family: "Shippori Mincho", Helvetica;
+  font-size: 25px;
+  font-weight: 800;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.homepage .chart-3 {
+  height: 1px;
+  position: relative;
+  width: 442px;
+}
+
+.homepage .overlap-group-7 {
+  background-image: url(../../../static/img/line-9-4.svg);
+  background-size: 100% 100%;
+  height: 6px;
+  position: relative;
+  top: -6px;
+}
+
+.homepage .line-8 {
+  height: 6px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 310px;
+}
+
+.homepage .display-text-5 {
+  height: 24px;
+  margin-right: -4px;
+  position: relative;
+  width: 447px;
+}
+
+.homepage .text-wrapper-50 {
+  color: #2e4049;
+  font-family: "Shippori Mincho", Helvetica;
+  font-size: 20px;
+  font-weight: 800;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.homepage .text-wrapper-51 {
+  color: #2e4049;
+  font-family: "Shippori Mincho", Helvetica;
+  font-size: 20px;
+  font-weight: 800;
+  left: 322px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.homepage .donat-now-wrapper {
+  all: unset;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 34px;
+  box-sizing: border-box;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  padding: 22px 45px;
+  position: relative;
+}
+
+.homepage .overlap-5 {
+  height: 1174px;
+  left: 0;
+  position: absolute;
+  top: 207px;
+  width: 1920px;
+}
+
+.homepage .banner {
+  background-image: url(../../../static/img/background-image-1.png);
+  background-size: 100% 100%;
+  height: 920px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1920px;
+}
+
+.homepage .content-33 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  left: 360px;
+  position: relative;
+  top: 262px;
+  width: 754px;
+}
+
+.homepage .content-34 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 16px;
+  position: relative;
+  width: 754px;
+}
+
+.homepage .title-12 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 5px;
+  position: relative;
+  width: 754px;
+}
+
+.homepage .text-wrapper-52 {
+  color: #ffffff;
+  font-family: "Sue Ellen Francisco", Helvetica;
+  font-size: 50px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 54.1px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.homepage .being-life-saver-for {
+  color: #ffffff;
+  font-family: "Shippori Mincho", Helvetica;
+  font-size: 90px;
+  font-weight: 800;
+  letter-spacing: 0;
+  line-height: 97.5px;
+  position: relative;
+  width: fit-content;
+}
+
+.homepage .poverty {
+  height: 33px;
+  position: relative;
+  transform: rotate(180deg);
+  width: 617px;
+}
+
+.homepage .overlap-group-8 {
+  height: 33px;
+  position: relative;
+  width: 615px;
+}
+
+.homepage .rectangle {
+  border: 2px solid;
+  border-color: #ffffff;
+  border-radius: 18px;
+  height: 33px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 289px;
+}
+
+.homepage .below-poverty-line {
+  color: #ffffff;
+  font-family: "Work Sans", Helvetica;
+  font-size: 18px;
+  font-weight: 500;
+  left: 18px;
+  letter-spacing: 3.42px;
+  line-height: normal;
+  position: absolute;
+  top: 6px;
+  transform: rotate(-180deg);
+  white-space: nowrap;
+}
+
+.homepage .line-9 {
+  height: 2px;
+  left: 287px;
+  position: absolute;
+  top: 13px;
+  transform: rotate(-180deg);
+  width: 328px;
+}
+
+.homepage .ellipse-5 {
+  background-color: #ffffff;
+  border-radius: 12px;
+  height: 24px;
+  left: 591px;
+  position: absolute;
+  top: 1px;
+  width: 24px;
+}
+
+.homepage .button-6 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 15px;
+  position: relative;
+  width: 305px;
+}
+
+.homepage .discover-wrapper {
+  all: unset;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 34px;
+  box-sizing: border-box;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  padding: 22px 27px;
+  position: relative;
+}
+
+.homepage .about-us-intro {
+  align-items: flex-start;
+  display: flex;
+  justify-content: center;
+  left: 360px;
+  position: absolute;
+  top: 823px;
+  width: 1200px;
+}
+
+.homepage .element-32 {
+  align-items: flex-start;
+  background-color: #77d7d3;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 67px 40px 68px;
+  position: relative;
+  width: 401px;
+}
+
+.homepage .content-35 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 20px;
+  position: relative;
+  width: 321px;
+}
+
+.homepage .content-36 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 15px;
+  position: relative;
+  width: 321px;
+}
+
+.homepage .text-wrapper-53 {
+  color: #2e4049;
+  font-family: "Shippori Mincho", Helvetica;
+  font-size: 35px;
+  font-weight: 800;
+  letter-spacing: 0;
+  line-height: 37.9px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.homepage .below-poverty-line-2 {
+  color: #4a4a4a;
+  font-family: "Work Sans", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: relative;
+  width: 321px;
+}
+
+.homepage .element-33 {
+  align-items: flex-start;
+  background-color: #2e4049;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  padding: 83px 43px 84px;
+  position: relative;
+}
+
+.homepage .content-37 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 20px;
+  position: relative;
+  width: 315px;
+}
+
+.homepage .content-38 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 15px;
+  position: relative;
+  width: 315px;
+}
+
+.homepage .become-a-volunteer-2 {
+  color: #ffffff;
+  font-family: "Shippori Mincho", Helvetica;
+  font-size: 35px;
+  font-weight: 800;
+  letter-spacing: 0;
+  line-height: 37.9px;
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}
+
+.homepage .text-wrapper-54 {
+  color: #ffffff;
+  font-family: "Work Sans", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: relative;
+  width: 315px;
+}
+
+.homepage .join-organization-wrapper {
+  all: unset;
+  box-sizing: border-box;
+  height: 21px;
+  position: relative;
+  width: 185px;
+}
+
+.homepage .join-organization {
+  color: #ffffff;
+  font-family: "Work Sans", Helvetica;
+  font-size: 18px;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-decoration: underline;
+  top: 0;
+  white-space: nowrap;
+}
+
+.homepage .element-34 {
+  background-image: url(../../../static/img/video.png);
+  background-size: 100% 100%;
+  height: 351px;
+  position: relative;
+  width: 398px;
+}
+
+.homepage .header {
+  height: 177px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1920px;
+}
+
+.homepage .menu {
+  align-items: center;
+  display: flex;
+  gap: 32px;
+  left: 360px;
+  position: absolute;
+  top: 112px;
+  width: 1199px;
+}
+
+.homepage .text-wrapper-55 {
+  color: #2e4049;
+  font-family: "Shippori Mincho", Helvetica;
+  font-size: 35px;
+  font-weight: 800;
+  left: 27px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.homepage .menu-wrapper {
+  height: 24px;
+  position: relative;
+  width: 786px;
+}
+
+.homepage .menu-2 {
+  height: 24px;
+  left: 232px;
+  position: relative;
+  width: 556px;
+}
+
+.homepage .overlap-group-9 {
+  height: 24px;
+  position: relative;
+  width: 554px;
+}
+
+.homepage .line-10 {
+  height: 24px;
+  left: 457px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.homepage .line-11 {
+  height: 24px;
+  left: 348px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.homepage .line-12 {
+  height: 24px;
+  left: 217px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.homepage .line-13 {
+  height: 24px;
+  left: 79px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.homepage .vector-6 {
+  height: 7px;
+  left: 308px;
+  position: absolute;
+  top: 9px;
+  width: 12px;
+}
+
+.homepage .home-about-us-pages {
+  color: #2e4049;
+  font-family: "Work Sans", Helvetica;
+  font-size: 18px;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.homepage .header-2 {
+  background-color: #76d6d3;
+  height: 72px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1920px;
+}
+
+.homepage .content-39 {
+  align-items: center;
+  display: flex;
+  gap: 610px;
+  left: 361px;
+  position: relative;
+  width: 1199px;
+}
+
+.homepage .address {
+  align-items: center;
+  display: flex;
+  gap: 45px;
+  position: relative;
+  width: 389px;
+}
+
+.homepage .call {
+  height: 21px;
+  position: relative;
+  width: 169px;
+}
+
+.homepage .text-wrapper-56 {
+  color: #12625f;
+  font-family: "Work Sans", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 21px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.homepage .vector-7 {
+  height: 14px;
+  left: 0;
+  position: absolute;
+  top: 5px;
+  width: 14px;
+}
+
+.homepage .mail {
+  height: 21px;
+  margin-right: -2px;
+  position: relative;
+  width: 179px;
+}
+
+.homepage .text-wrapper-57 {
+  color: #12625f;
+  font-family: "Work Sans", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.homepage .icon-6 {
+  height: 12px;
+  left: 0;
+  position: absolute;
+  top: 6px;
+  width: 16px;
+}
+
+.homepage .social-media {
+  flex: 0 0 auto;
+  height: 72.11px;
+  position: relative;
+}
